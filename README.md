@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Alansary</h1>
 <h3 align="center">A Passionate data scientist / machine learning engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alansary&label=Profile%20views&color=0e75b6&style=flat" alt="alansary" /> </p>
-
 - 🔭 I’m currently working on **Novel Protein Generation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alansary](https://github.com/alansary)
@@ -22,5 +20,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/alansary"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alansary" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alansary&show_icons=true&locale=en&layout=compact" alt="alansary" /></p>
