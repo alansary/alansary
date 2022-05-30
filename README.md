@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Alansary</h1>
 <h3 align="center">A Passionate data scientist / machine learning engineer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alansary&label=Profile%20views&color=0e75b6&style=flat" alt="alansary" /> </p>
+
 - 🔭 I’m currently working on **Novel Protein Generation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alansary](https://github.com/alansary)
